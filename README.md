@@ -1,6 +1,6 @@
 my_flask_app/
 │
-├── app
+├── A
 │   └──
         from flask import Flask, render_templat
 
