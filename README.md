@@ -15,7 +15,7 @@ my_flask_app/
 
 ├── requirements.
 │   └──
-        Flask
+        Flasks
 
 ├── templates/
 │   └── index.htmlf
