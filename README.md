@@ -1,5 +1,7 @@
 my_flask_app/
-
+│
+├── A
+│   └──
         from flask import Flask, render_templat
 
         app = Flask(__name__)
