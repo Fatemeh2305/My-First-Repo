@@ -28,7 +28,7 @@ my_flask_app/
             </head>
             <body>
                 <h1>Hello friendS ! 👋</h1>
-                <p>Welcome to the simple Flask web application.</p>
+                <p>Welcome to the simple Flask we application.</p>
             </body>
             </html>
 
