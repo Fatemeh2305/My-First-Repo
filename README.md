@@ -18,7 +18,7 @@ my_flask_app/
         Flask
 
 ├── templates/
-│   └── index.htmle
+│   └── index.htmles
 │       └──
             <!DOCTYPE html>
             <html lang="en">
