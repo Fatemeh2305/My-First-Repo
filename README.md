@@ -34,7 +34,7 @@ my_flask_app/
 
 └── README.md
     └──
-        # Simple Flask Web 
+        # Simple Flask 
 
         This is a very basic web application built with Python and Flask.
 
