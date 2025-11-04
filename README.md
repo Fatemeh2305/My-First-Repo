@@ -15,7 +15,7 @@ my_flask_app/
 
 ├── requirements.engine
 │   └──
-        Flask
+        Flasks
 
 ├── templates/
 │   └── index.htmles
