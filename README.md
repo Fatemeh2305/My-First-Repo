@@ -26,7 +26,7 @@ my_flask_app/
                 <meta charset="UTF-8">
                 <title>Simple Web App</title>
             </head>
-            <body>
+           
                 <h1>Hello friendS ! 👋</h1>
                 <p>Welcome to the simple Flask we application.</p>
             </body>
