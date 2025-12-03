@@ -19,7 +19,7 @@ my_flask_app/
 
 ├── templates/
 │   └── index.htmles
-│       └──
+│       └──routes import router
             <!DOCTYPE html>
             <html lang="en">
             <head>
